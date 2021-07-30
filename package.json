@@ -1,0 +1,25 @@
+{
+  "name": "sorchy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscarzatell/sorchy.git"
+  },
+  "keywords": [],
+  "author": "AZKOJh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oscarzatell/sorchy/issues"
+  },
+  "homepage": "https://github.com/oscarzatell/sorchy#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cherio": "^1.0.0-rc.2",
+    "express": "^4.17.1"
+  }
+}
